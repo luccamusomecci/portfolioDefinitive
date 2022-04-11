@@ -225,9 +225,9 @@ a:hover {
 
 **********************************************************************/
 #head {
-  background: #f4f4f4 url(../images/bg_head.jpg) top center;
+  background: #b4d1d6 url(../images/bg_head.jpg) top center;
   background-size: cover;
-  color: #7C7C7C;
+  color: #b4d1d6;
   padding: 30px 0 35px 0;
 }
 #head img.img-circle {
